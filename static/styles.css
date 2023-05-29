@@ -1,0 +1,27 @@
+td {
+    border-right: 1px solid black;
+}
+
+td:last-child {
+    border-right: none;
+}
+
+
+  
+  body {
+    background-color: white;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    text-align: left;
+    padding: 8px;
+    border: 1px solid black;
+}
+th {
+    background-color: #dddddd;
+}
+
+       
